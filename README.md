@@ -4,7 +4,7 @@
 
 
 # HOMEPAGE
-<img src='/images/hitcounter.png'/>
+<img src='./images/hitcounter.png'/>
 
 
 
